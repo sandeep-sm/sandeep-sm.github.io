@@ -1,7 +1,7 @@
 ---
 title: "RecSal : Deep Recursive Supervision for Visual Saliency Prediction"
-collection: publications
-permalink: /publication/recsal
+collection: projects
+permalink: /projects/recsal
 excerpt: 'State-of-the-art saliency prediction methods develop upon model architectures or loss
 functions; while training to generate one target saliency map. However, publicly available saliency prediction datasets can be utilized to create more information for each
 stimulus than just a final aggregate saliency map. This information when utilized in a
