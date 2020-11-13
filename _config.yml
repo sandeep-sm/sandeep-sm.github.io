@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Oindrila's Webpage"
+title                    : "Sandeep's Webpage"
 title_separator          : "-"
-name                     : &name "Oindrila Saha"
-description              : &description "Research Fellow @ Microsoft Research"
-url                      : https://oindrilasaha.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+name                     : &name "Sandeep Mishra"
+description              : &description "Senior Research Engineer @ Samsung"
+url                      : https://sandeep-sm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "oindrilasaha/oindrilasaha.github.io"
+repository               : "sandeep-sm/sandeep-sm.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,13 +80,13 @@ analytics:
 
 # Site Author
 author:
-  name             : "Oindrila Saha"
+  name             : "Sandeep Mishra"
   avatar           : "jprofile.png"
-  bio              : "Research Fellow"
+  bio              : "Senior Research Engineer"
   location         : "Bangalore, India"
-  employer         : "Microsoft Research India"
+  employer         : "Samsung Research Institue Bangalore"
   googlescholar    :
-  email            : "t-oisaha@microsoft.com"
+  email            : "sm.sandeep.sm@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
@@ -94,12 +94,12 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "oindrilasaha"
+  github           : "sandeep-sm"
   google_plus      :
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "oindrila-saha"
+  linkedin         : "sandeep-mishrakgp"
   orcid            : 
   pinterest        :
   soundcloud       :
@@ -110,7 +110,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          : "https://www.youtube.com/channel/UC05By_AVl8KjOyTTi_Bueog"
+  youtube          : # "https://www.youtube.com/channel/UC05By_AVl8KjOyTTi_Bueog"
   wikipedia        :
 
 
