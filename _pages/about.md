@@ -16,4 +16,4 @@ Visual Saliency Prediction](https://www.bmvc2020-conference.com/assets/papers/05
 
 Research Interests
 ==================
-Computer Vision, Deep Learning, Bio-inspired Vision, Cognitive Learning, Efficient Designs
+Computer Vision, Deep Learning, Cognitive Learning, Bio-inspired Vision, Efficient Learning
