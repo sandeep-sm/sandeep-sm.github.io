@@ -5,6 +5,5 @@ permalink: /miscellaneous/service
 location: "Kharagpur, India"
 ---
 
-Mentor at a 4 week web development course organized by EduSpectrum for freshers of IIT Kharagpur
-
-As an active member of EduSpectrum, a forum for spreading 
+I have had the opportunity to work under the NSS public service program (National Service Scheme, under Ministry of Youth Affairs & Sports,
+India). Our team was alloted a village near IIT Kharagpur. We conducted surveys, organized education awareness sessions and also held cloth distribution drive. I was also awarded the Best NSS Volunteer. 
