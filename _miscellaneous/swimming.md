@@ -1,8 +1,10 @@
 ---
-title: "Swimming"
+title: "Service"
 collection: miscellaneous
-permalink: /miscellaneous/swimming
+permalink: /miscellaneous/service
 location: "Kharagpur, India"
 ---
-I enjoy swimming as a hobby and a competitive sport. I represented IIT Kharagpur in Inter IIT Aquatics competitions for 4 years (2015-2019)
-and was the Women's Team Captain in 2019.
+
+Mentor at a 4 week web development course organized by EduSpectrum for freshers of IIT Kharagpur
+
+As an active member of EduSpectrum, a forum for spreading 
