@@ -13,5 +13,6 @@ and show that it achieves superior performance over a base model which is devoid
 extra supervision. We show that our best method outperforms previous state-of-the-art
 methods with 50-80% fewer parameters. We also show that our models perform consistently well across all evaluation metrics unlike prior methods.'
 venue: 'British Machine Vision Conference (BMVC)'
+date: 2020-07-15
 paperurl: 'https://www.bmvc2020-conference.com/assets/papers/0539.pdf'
 ---
