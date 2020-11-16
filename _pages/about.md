@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I'm a Senior Research Engineer at Samsung, working in the Vision Research Group which contributes to the latest vision based solutions for Samsung flagship devices. Currently I am working on a Image and Video Super-Resolution solution for the device capture pipeline. I aspire to work in the intersection of Computer vision and Human cognition. I am also interested in developing novel efficient architectures for deploying such solutions on resource contrained devices.
+I'm a Senior Research Engineer at Samsung, working in the Vision Research Group which contributes to the latest vision based solutions for Samsung flagship devices. Currently I am working on an Image and Video Super-Resolution solution for the device capture pipeline. I aspire to work in the intersection of computer vision and human cognition. I am also interested in developing novel efficient architectures for deploying such solutions on resource contrained devices.
 
 I graduated with a Master's (Honors) and Bachelor's in Tech. from the Department of Electronics and Electrical Communication Engineering, Indian Institute of Technology Kharagpur. I specialize in Visual Image Processing and Embedded systems. I also did my minor in Computer Science and Engineering at the same place. 
 
