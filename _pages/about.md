@@ -10,9 +10,9 @@ redirect_from:
 I am a ECE PhD student at the University of Texas at Austin guided by Prof. Alan Bovik.
 I am a member of Laboratory for Image and Video Engineering (LIVE) where we work towards the developement and optimization of blind/non-blind image and video quality assesment/enhancement techniques. 
 
-Prior to pursuing a PhD I worked as a Lead Research Engineer at Samsung Research Institute Bangalore in the Vision Research Group which primarily contributes to the latest vision based solutions for Samsung flagship devices. While at Samsung we developed an Image Super-Resolution solution for the device Gallery which has been deployed on various Samsung devices across the globe since 2020. We also developed a Video Super-Resolution solution for the device capture pipeline which hopefully users will get to experience pretty soon (**fingers crossed**).
+Prior to pursuing a PhD I worked as a Lead Research Engineer at Samsung Research Institute Bangalore in the Vision Research Group which primarily contributes to the latest vision based solutions for Samsung flagship devices. While at Samsung we developed an Image Super-Resolution solution for the device Gallery which has been deployed on various Samsung devices across the globe since 2020. We also developed a Video Super-Resolution solution for the device capture pipeline which hopefully users will get to experience pretty soon (*fingers crossed*).
 
-# I aspire to work in the intersection of computer vision and human cognition. I am also interested in developing novel efficient architectures for deploying such solutions on resource constrained devices.
+[comment]: <> I aspire to work in the intersection of computer vision and human cognition. I am also interested in developing novel efficient architectures for deploying such solutions on resource constrained devices.
 
 I graduated with a Master's (Honors) and Bachelor's in Technology from the Department of Electronics and Electrical Communication Engineering, Indian Institute of Technology Kharagpur. I specialize in Visual Image Processing and Embedded systems. I also completed my minor in Computer Science and Engineering at the same place. 
 
