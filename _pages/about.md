@@ -17,4 +17,4 @@ I graduated with a Dual Degree from the Department of Electronics and Electrical
 
 Research Interests
 ==================
-Image/Video quality assessment and enhancement, Self-supervised learning
+Image/Video quality assessment and enhancement, Self-supervised learning, Efficient Learning
