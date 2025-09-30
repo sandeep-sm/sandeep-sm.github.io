@@ -17,8 +17,8 @@ I graduated with a dual degree from the Department of Electronics and Electrical
 
 Research Interests
 ==================
-Generative Modeling, Image/Video Quality Assessment and Enhancement, Self-Supervised Learning, Efficient Learning
+Applications of generative modeling, image/video quality assessment and enhancement, and self-supervised learning
 
 Core technical skills
 ==================
-Experience with large-scale distributed training, million-scale dataset generation and handling, proficient in Python. 
+Experience with large-scale distributed training, million-scale dataset generation and handling, and proficient in Python. 
